@@ -1,4 +1,4 @@
-## Confederation of Agrigculture and Livestock Brazil Data Science Project
+## Confederation of Agriculture and Livestock Brazil Data Science Project
 ### By Schuyler Blasy
 #### How are agricultural export products to China and Africa related to each other and performing over time?
 
